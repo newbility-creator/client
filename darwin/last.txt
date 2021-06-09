@@ -1,1 +1,1 @@
-["https:\/\/cdn.jsdelivr.net\/gh\/newbility-creator\/client\/darwin\/file\/2106092218\/app.7z","https:\/\/raw.githubusercontent.com\/newbility-creator\/client\/main\/darwin\/file\/2106092218\/app.7z"]
+["https:\/\/cdn.jsdelivr.net\/gh\/newbility-creator\/client\/darwin\/file\/2106092225\/app.7z","https:\/\/raw.githubusercontent.com\/newbility-creator\/client\/main\/darwin\/file\/2106092225\/app.7z"]
